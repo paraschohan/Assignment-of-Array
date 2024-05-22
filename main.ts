@@ -89,7 +89,7 @@ console.log("fruit7" , fruit7);
 
 let fruit:string[]=["apple" ,"banana" , "pineapple" , "pear" , "mango" , "orange"];
  let citrusfruits: string[]=fruit.slice(0, 2);
-console.log("citrusfruits");
+console.log("citrusfruits" , citrusfruits);
 
 
 // Question 12
@@ -98,7 +98,7 @@ console.log("citrusfruits");
 
 let fruit9:string[]=["apple" , "banana" , "pear" , "mango" , "orange"];
  let lastTwofruit9:string[]=fruit9.slice(-2);
-console.log("lastTwofruit9");
+console.log("lastTwofruit9" , lastTwofruit9);
 
 
 

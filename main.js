@@ -59,10 +59,10 @@ console.log("fruit7", fruit7);
 // two elements of the fruits array using the method. 
 var fruit = ["apple", "banana", "pineapple", "pear", "mango", "orange"];
 var citrusfruits = fruit.slice(0, 2);
-console.log("citrusfruits");
+console.log("citrusfruits", citrusfruits);
 // Question 12
 // Create a new array named lastTwoFruits that contains the last 
 // two elements of the fruits array using the method.
 var fruit9 = ["apple", "banana", "pear", "mango", "orange"];
 var lastTwofruit9 = fruit9.slice(-2);
-console.log("lastTwofruit9");
+console.log("lastTwofruit9", lastTwofruit9);
